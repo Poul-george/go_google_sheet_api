@@ -1,0 +1,6 @@
+/go_google_sheet.go
+/go.mod
+/go.sum
+/credentials
+.DS_Store
+.idea/
